@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Tailwind.css, React.js, Python**
 
-- 💬 Ask me about **React, Tailwind.css,**
+- 💬 Ask me about **React, Tailwind.css(Basics), JavaScript**
 
 - 📫 How to reach me **paudelanurag34@gmail.com**
 
